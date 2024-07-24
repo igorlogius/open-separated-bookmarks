@@ -1,4 +1,8 @@
-Open All Bookmarks between separators made to resemble the options provided on bookmark folders
+Open bookmarks between separators made to resemble the options provided on bookmark folders
+
+<b>Short Demo Video </b>
+
+https://github.com/user-attachments/assets/650a26fe-f1c1-47bf-b1d8-d346a5744f39
 
 <b>Usage </b>
 
